@@ -1,5 +1,5 @@
 # hello-world
-Try
+Lipsum
 
 Adalah menjadi satu fakta bahawa pembaca akan terganggu oleh text yang boleh difahami apabila melihat susunan mukasurat. 
 Kegunaan Lorem Ipsum adalah kerana ia mempunyai susunan ayat yang kelihatan normal, yang lebih menarik berbeza dengan "Contoh disini, contoh disini". Ia menyerupai text yang boleh dibaca dalam bahasa Inggeris. 
